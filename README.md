@@ -1,5 +1,5 @@
 # CWshell v1.0
-## A simple remote shell for everyone
+## A simple, open source remote shell for everyone
 CW Shell is a remote shell made for controlling a computer through out the local Network. This is a complete tutorial.
 ### starting the server
 On mac open the `Connecter.app`. On windows open `Connecter.exe`. After that wait until it gives you the ip address on which the server has been started.
