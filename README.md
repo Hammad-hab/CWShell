@@ -1,7 +1,21 @@
 # CWshell v1.0
 ## A simple, open source remote shell for everyone
-CW Shell is a remote shell made for controlling a computer through out the local Network. This is a complete tutorial.
-### starting the server
+CW Shell is a remote shell made for controlling a computer through out the local Network. 
+
+### Installation
+#### For Windows Users:
+Go to the terminal navigate to the desired directory and type:
+`git clone https://github.com/Hammad-hab/CWshell.git`
+In the CWShell folder there are two `.exe` files, the server and the client. Read the <a href="#tutorial">tutorial</a> to get started
+#### For Mac And Linux Users
+Currently the mac and Linux users have to use the open Source `.py` files located in `/CWShell/bin/`. So they too have to clone the repository using:
+`git clone https://github.com/Hammad-hab/CWshell.git`
+then installing <a href=""https://www.python.org/>Python</a> from Python.org. They can use the python interpreter to run the files.
+
+<div id="tutorial">
+
+### Starting the server
+ 
 On mac open the `Connecter.app`. On windows open `Connecter.exe`. After that wait until it gives you the ip address on which the server has been started.
 Then on the client computer open `connect.app`/`connect.exe` and when it asks you for the IPV4 address, enter the IPV4 address of the server.
 You are now successfully connected to the server. 
@@ -25,15 +39,14 @@ In the array named whitelist, enter the ipv4 address of your client computer. Af
 ### CH: 2 Settings and commands
 CWShell allows you to run commands on the server. By default all the commands are treated as strings. To prevent this change your execution mode so that the server program considers your commands more than just standard strings. 
 To change you execution mode to bash type $bash.
+
+<b>Client</b>
 ```
 >>> echo Hello
 >>> $bash
 >>> echo Hello
-
 ```
-<b>Client</b>
-
-
+<b>Server</b>
 
 ```
 [CWSHELL] Active connections 1
@@ -41,11 +54,9 @@ To change you execution mode to bash type $bash.
 127.0.0.1 switched to bash mode
 Hello
 ```
-<b>Server</b>
 
-<b>Note: In CWShell all commands begining with `$` sign are considerd as modes</b>
+<b>Note: In CWShell all commands begining with `$` are considerd as modes</b>
 #### Other
 
 `exit`: This command breaks the connection, it is equal to typing `-`
-
-
+</div>
