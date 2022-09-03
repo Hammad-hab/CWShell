@@ -6,7 +6,7 @@ CW Shell is a remote shell made for controlling a computer through out the local
 #### For Windows Users:
 Go to the terminal navigate to the desired directory and type:
 `git clone https://github.com/Hammad-hab/CWshell.git`
-In the CWShell folder there are two `.exe` files, the server and the client. Read the <a href="#tutorial">tutorial</a> to get started
+In the CWShell folder there are two `.exe` files, the server and the client. Read the tutorial below to get started
 #### For Mac And Linux Users
 Currently the mac and Linux users have to use the open Source `.py` files located in `/CWShell/bin/`. So they too have to clone the repository using:
 `git clone https://github.com/Hammad-hab/CWshell.git`
