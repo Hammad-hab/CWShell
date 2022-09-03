@@ -10,7 +10,7 @@ In the CWShell folder there are two `.exe` files, the server and the client. Rea
 #### For Mac And Linux Users
 Currently the mac and Linux users have to use the open Source `.py` files located in `/CWShell/bin/`. So they too have to clone the repository using:
 `git clone https://github.com/Hammad-hab/CWshell.git`
-then installing <a href="https://www.python.org"/>Python</a> from Python.org. They can use the python interpreter to run the files.
+then they have to install <a href="https://www.python.org"/>Python</a> from Python.org. They can use the python interpreter to run the files.
 <div id="tutorial">
 On mac open the `Connecter.app`. On windows open `Connecter.exe`. After that wait until it gives you the ip address on which the server has been started.
 Then on the client computer open `connect.app`/`connect.exe` and when it asks you for the IPV4 address, enter the IPV4 address of the server.
