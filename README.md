@@ -55,3 +55,10 @@ Hello
 #### Other
 
 `exit`: This command breaks the connection, it is equal to typing `-`
+
+
+# *Major update comming on 28 December 2022*
+* Security update
+* More Modes ($bash, $standard, $python and _$cwshell_)
+* Usability updates
+* More Settings!
