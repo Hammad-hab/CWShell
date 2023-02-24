@@ -56,11 +56,9 @@ Hello
 
 `exit`: This command breaks the connection, it is equal to typing `-`
 
-
-# *Major update comming on January 2023 (v1.2 LTS)*
-* Security update
-* More Modes ($bash, $standard, $python and _$cwshell_)
-* Usability updates
-* More Settings!
-* The CWShell CLI
-* One application for everything!
+# CWShellv1.2 is HERE
+Be the first to get the source at https://github.com/Hammad-hab/CWShell-1.2.git.
+Use the following command to download the source from github:
+```
+git clone https://github.com/Hammad-hab/CWShell-1.2.git
+```
