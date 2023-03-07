@@ -1,3 +1,4 @@
+# CWSHELL V1.0 IS NO LONGER SUPPORTED. IT WILL SOON BE DISCONTINUED AS THERE IS A NEW VERSION (CWShell v2.0)
 # CWshell v1.0
 ## A simple, open source remote shell for everyone
 CW Shell is a remote shell made for controlling a computer through out the local Network. 
